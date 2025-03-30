@@ -1,0 +1,18 @@
+# Virtual Environment
+.venv/
+venv/
+*/.venv/
+*/venv/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Optional: Ignore Excel files (uncomment the line below if your file gets too big)
+# *.xlsx
+# *.xls
